@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soktamas0319
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning github
+- 🌱 I’m currently looking for a job
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me soktamas@yahoo.com
 
