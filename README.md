@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soktamas0319
+- 👋 Hi, I’m Sok Tamás
 - 👀 I’m interested in programming
 - 🌱 I’m currently looking for a job
 - 💞️ I’m looking to collaborate on 
