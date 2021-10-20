@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently looking for a job
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me soktamas@yahoo.com
+- 📫 How to reach me st.soktamas@gmail.com
 
 <!---
 soktamas0319/soktamas0319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
