@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sok Tamás
 - 👀 I’m interested in programming
-- 🌱 I’m currently looking for a job
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me st.soktamas@gmail.com
 
